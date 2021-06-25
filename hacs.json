@@ -1,0 +1,8 @@
+{
+  "name": "iq-notify",
+  "hacs": "1.6.0",
+  "domains":[
+    "notify"
+    ],
+  "homeassistant": "2021.6"
+}
