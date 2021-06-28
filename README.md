@@ -2,8 +2,15 @@
 
 ## How to install
 
+### HACS method
+1. Import this repo into HACS
+2. Restart Home Assistant (as directed by HACS)
+3. Update your configuration.yaml
+
+### Manual method
 1. Clone repository into $HASS_HOME.
     * Will be placed into custom_components/iq_notify folder
+2. Restart Home Assistant (will not work without a restart)
 3. Update your configuration.yaml.
 
 The contents of this repository should be in a directory named `iq_notify` inside `custom_components` of your Home Assistant.
