@@ -4,5 +4,7 @@
     "version": "1.0.0",
     "requirements": [],
     "dependencies": [],
-    "codeowners": []
+    "codeowners": ["@cadavre","@jfurtner"],
+    "documentation": "https://github.com/jfurtner/iq_notify",
+    "iot_class": "calculated
 }
